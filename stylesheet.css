@@ -29,3 +29,7 @@ p    {
 	 background-image: url("https://images3.alphacoders.com/146/146469.jpg");
 	
 	}
+
+ul{
+	list-style-type: none;	
+}
