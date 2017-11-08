@@ -36,3 +36,7 @@ ul	{
 	background: lightgray;
 	width: 100px;
 }
+
+li a {
+	display: block;
+}
