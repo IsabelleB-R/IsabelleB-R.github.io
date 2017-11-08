@@ -28,14 +28,21 @@ p    {
  body 	{
 	
 	 background-image: url("https://images3.alphacoders.com/146/146469.jpg");
+	 background-position: center center;
+	 background-size: cover;
 	
+}
+
+html	{
+	height: 100%;
 }
 
 ul	{
 	list-style-type: none;
 	background: lightgray;
 	width: 100px;
-	padding: 0;
+	padding: 0;/*gets rid of space on left*/
+	margin: 0;/**/
 }
 
 li a {
