@@ -24,12 +24,13 @@ p    {
   
   color: Fuchsia;
   
- body {
+ body 	{
 	
 	 background-image: url("https://images3.alphacoders.com/146/146469.jpg");
 	
-	}
+}
 
-ul{
-	list-style-type: none;	
+ul	{
+	list-style-type: none;
+	background: lightgray;
 }
