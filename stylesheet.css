@@ -33,6 +33,10 @@ p    {
 	
 }
 
+body.plain {
+	background-color: black;
+}
+
 html	{
 	height: 100%;
 }
