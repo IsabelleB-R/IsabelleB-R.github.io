@@ -9,3 +9,7 @@ body 	{
 body.plain {
 	background-color: black;
 } 
+
+h2 {
+	color: white;
+}
