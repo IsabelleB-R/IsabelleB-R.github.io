@@ -24,17 +24,17 @@ p    {
   
   color: Fuchsia;
 }
-  
- body 	{
+ 
+body.plain {
+	background-color: black;
+} 
+
+body 	{
 	
 	 background-image: url("https://images3.alphacoders.com/146/146469.jpg");
 	 background-position: center center;
 	 background-size: cover;
 	
-}
-
-body.plain {
-	background-color: black;
 }
 
 html	{
