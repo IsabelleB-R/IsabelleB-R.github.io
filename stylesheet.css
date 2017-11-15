@@ -47,6 +47,7 @@ ul	{
 	width: 100px;
 	padding: 0;/*gets rid of space on left*/
 	margin: 0;/**/
+	overflow: hidden;
 }
 
 li a {
@@ -65,5 +66,5 @@ li a:hover {
 }
 
 li{
-	display: inline;
+	float: left;
 }
