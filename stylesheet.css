@@ -61,7 +61,7 @@ li a {
 li a:hover {
 	background: black;
 	color: white;
-	font-family: courier
+	/*font-family: courier*/
 }
 
 li{
