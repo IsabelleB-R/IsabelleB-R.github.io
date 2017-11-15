@@ -5,3 +5,7 @@ body 	{
   width: 100px;
   hieght: 100px;
 }
+
+body.plain {
+	background-color: black;
+} 
