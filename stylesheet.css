@@ -44,7 +44,6 @@ html	{
 ul	{
 	list-style-type: none;
 	background: lightgray;
-	width: 100px;
 	padding: 0;/*gets rid of space on left*/
 	margin: 0;/**/
 	overflow: hidden;
@@ -55,7 +54,7 @@ li a {
 	text-decoration:none;
 	color: red;
 	font-family: Arial;
-	padding: 10;
+	padding: 10px;
 	text-align: center;
 }
 
@@ -67,4 +66,11 @@ li a:hover {
 
 li{
 	float: left;
+}
+
+body 	{
+	
+	 img: url("https://ih1.redbubble.net/image.300207728.5605/flat,900x900,070,f.u3.jpg");
+  width: 100px;
+  hieght: 100px;
 }
