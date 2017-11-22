@@ -13,3 +13,30 @@ body.plain {
 h2 {
 	color: white;
 }
+
+ul	{
+	list-style-type: none;
+	background: lightgray;
+	padding: 0;/*gets rid of space on left*/
+	margin: 0;/**/
+	overflow: hidden;
+}
+
+li a {
+	display: block;
+	text-decoration:none;
+	color: red;
+	font-family: Arial;
+	padding: 10px;
+	text-align: center;
+}
+
+li a:hover {
+	background: black;
+	color: white;
+	/*font-family: courier*/
+}
+
+li{
+	float: left;
+}
