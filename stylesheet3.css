@@ -1,14 +1,18 @@
+h1   {
+  
+  color: red;
+
+
+
 body 	{
 	
-	 img: url("https://ih1.redbubble.net/image.300207728.5605/flat,900x900,070,f.u3.jpg");
-}
-
-
-h1 {
-	color: red;
+	 background-image: url("http://blog.verticalresponse.com/wp-content/uploads/2013/12/HTML-code.jpg");
+	 background-position: center center;
+	 background-size: cover;
+	 backgroud-atttachment: fixed;
+	
 }
 
 html	{
 	height: 100%;
 }
-
