@@ -1,6 +1,7 @@
 h1   {
   
   color: red;
+  text-align: center;
 
 
 }
@@ -8,7 +9,8 @@ h1   {
 h2   {
   
   color: yellow;
-  
+    text-align: center;
+
   
 }
 
@@ -16,7 +18,8 @@ h2   {
 h3   {
   
   color: lime;
-  
+    text-align: center;
+
 }
 
 
