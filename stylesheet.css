@@ -34,7 +34,8 @@ body 	{
 	 background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg");
 	 background-position: center center;
 	 background-size: cover;
-	 backgroud-atttachment: fixed;
+	 background-atttachment: fixed;
+	 background-repeat: no-repeat;
 	
 }
 
